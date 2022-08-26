@@ -14,7 +14,10 @@ Tools
 What IDE are you using?     I using Visual Studio Code
 What OS are you using?      Windows 10
 
-git 
+git https://github.com/Nagatt511/test-project.git
+
+to deploy the application, you need to place the files on the server, or locally, while maintaining the file structure.
+
 
 CSS
 
